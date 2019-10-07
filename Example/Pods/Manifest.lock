@@ -1,0 +1,16 @@
+PODS:
+  - zuTechFirstFramework (0.1.0)
+
+DEPENDENCIES:
+  - zuTechFirstFramework (from `../`)
+
+EXTERNAL SOURCES:
+  zuTechFirstFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  zuTechFirstFramework: e4d3611a22a789d944068808a6eda5c90b4a3f81
+
+PODFILE CHECKSUM: 0b50b85a5ed3a8c7c2edd063e07108ca20333916
+
+COCOAPODS: 1.8.0.beta.2

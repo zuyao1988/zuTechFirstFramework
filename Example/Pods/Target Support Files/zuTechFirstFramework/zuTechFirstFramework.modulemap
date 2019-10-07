@@ -1,0 +1,6 @@
+framework module zuTechFirstFramework {
+  umbrella header "zuTechFirstFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "zuTechFirstFramework",
+  "version": "0.1.0",
+  "summary": "A short description of zuTechFirstFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zuyao1988@gmail.com/zuTechFirstFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zuyao1988@gmail.com": "tyaolee@liveperson.com"
+  },
+  "source": {
+    "git": "https://github.com/zuyao1988@gmail.com/zuTechFirstFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "zuTechFirstFramework/Classes/**/*"
+}
