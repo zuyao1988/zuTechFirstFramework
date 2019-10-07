@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'zuTechFirstFramework_Example' do
+  pod 'zuTechFirstFramework', :path => '../'
+
+  target 'zuTechFirstFramework_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
